@@ -2,15 +2,15 @@
   "users": [
     {
       "id": 1,
-      "name": "maxud"
+      "name": "Ivan"
     },
     {
       "id": 2,
-      "name": "ramazan"
+      "name": "Nikolay"
     },
     {
       "id": 3,
-      "name": "iljas"
+      "name": "Petr"
     }
   ],
   "posts": [
